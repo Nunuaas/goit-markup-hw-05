@@ -55,7 +55,6 @@ body{
 
 .header-list{
    color: var(--dark-color);
-   font-family: Roboto;
    font-size: 16px;
    font-weight: 500;
    line-height: 1.5;
@@ -130,7 +129,6 @@ body{
 
 .first-section-text{
    color: var(--white-background);
-   font-family: "Roboto", sans-serif;
    font-size: 56px;
    font-style: normal;
    font-weight: 700;
@@ -144,7 +142,6 @@ body{
 .first-section-button{
    background-color: var(--primary-brand-color);
    color: var(--white-background);
-   font-family: "Roboto", sans-serif;
    font-size: 16px;
    font-style: normal;
    font-weight: 500;
@@ -168,7 +165,6 @@ body{
 }
 
 .text{
-   font-family: Roboto;
    font-size: 16px;
    font-style: normal;
    font-weight: 400;
@@ -177,7 +173,6 @@ body{
 }
 
 .section-rubric{
-   font-family: "Roboto", sans-serif;
    font-size: 36px;
    font-style: normal;
    font-weight: 700;
@@ -206,7 +201,6 @@ body{
 }
 
 .team-rubric{
-   font-family: Roboto;
    font-size: 36px;
    font-style: normal;
    font-weight: 700;
@@ -232,7 +226,6 @@ body{
 
 /* names in index.html, services text in portfolio and text in section 2 in index.html */
 .names{
-   font-family: Roboto;
    font-size: 20px;
    font-style: normal;
    font-weight: 500;
@@ -253,7 +246,6 @@ body{
 }
 
 .footer-text{
-   font-family: Roboto;
    font-size: 16px;
    font-style: normal;
    font-weight: 400;
@@ -285,7 +277,6 @@ body{
 }
 
 .button-list{ 
-   font-family: "Roboto", sans-serif;
    font-size: 16px;
    font-style: normal;
    font-weight: 500;
